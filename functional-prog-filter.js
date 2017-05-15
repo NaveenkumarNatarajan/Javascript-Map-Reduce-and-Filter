@@ -12,7 +12,7 @@ for(var i = 0; i < numbers.length; i++) {
 console.log("The doubled numbers are", newNumbers);*/
 
 
-//And implementing the same in functional approach using - filter
+//And implementing the same in functional approach using - filter()
 
 var numbers = [1, 2, 3, 4];
 
