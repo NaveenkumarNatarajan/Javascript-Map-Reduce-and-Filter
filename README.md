@@ -26,4 +26,6 @@ What it does:
 Like map() it traverses the array from left to right invoking a callback function on each element. The returned value must be a boolean identifying whether the element will be kept or discarded. After all elements have been traversed filter() returns a new array with all elements that returned true
 
 
-Download and try examples !
+Fork and try these simple examples !
+
+
