@@ -18,6 +18,7 @@ What it does:
 Like map() it traverses the array from left to right invoking a callback function on each element. The value returned is the cumulative value passed from callback to callback. After all elements have been traversed reduce() returns the cumulative value
 
 filter()
+
 Use it when: 
 You want to remove unwanted elements based on a condition
 
